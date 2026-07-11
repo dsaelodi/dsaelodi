@@ -1,6 +1,6 @@
 # Hello 
 
-I am Djob Misael, a Full-Stack Web Developer, AI Specialist, and the founder of Asep Academy. I focus on building web architecture and engineering intelligent computer vision systems. I spend most of my time exploring multi-modal workflows, real-time gesture inference, and optimizing full-stack applications, believing that empowering technology makes human lives more efficient and impactful.
+I am Djob Misael, a Full-Stack Developer and founder of Asep Academy. I build software that solves real-world problems, from scalable web applications to computer vision systems. My interests include modern web architecture, real-time computer vision, and AI-powered applications, with a focus on creating reliable and impactful products.
 
 ### Focus & Interests
 
